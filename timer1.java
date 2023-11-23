@@ -20,7 +20,8 @@ public class SynchroTimerApp extends JFrame {
         //ウィンドウが閉じられた時にアプリを終了するようにする
         setLayout(new BoxLayout(getContentPane(), BoxLayout.Y_AXIS)); 
         //レイアウトの配置をここで決めているgetContentPane()の括弧はメソッドの呼び出し
-        //                                getContentPane;だと＝の左側に代入になってしまう
+        //                                getContentPane;だと＝の左側に代入になってしまう.
+      
 
 
 
